@@ -7,7 +7,7 @@
 
         echo "Velocidade dentro do permitido";
 
-    } elseif($velocidade_carro === $velocidade_permitida) {
+    } elseif($velocidade_carro == $velocidade_permitida) {
 
         echo "Cuidado! Velocidade permitida é 40 km/h";
 
