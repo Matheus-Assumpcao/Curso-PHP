@@ -7,3 +7,9 @@
 ?>
 
 <p>Arquivo Include</p>
+
+<?php
+
+    require 'arquivos/funcao.php';
+
+?>
